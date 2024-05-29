@@ -1,6 +1,6 @@
 {
   "name": "auto-changelog-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "description": "The script includes error handling to log any issues encountered during the fetch operations. If an error occurs while fetching issues or labels, it logs the error to the console and continues processing the next item.",
   "main": "index.js",
