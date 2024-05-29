@@ -126,6 +126,8 @@ dist
 .vscode
 constants.js
 
+package-lock.json
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
